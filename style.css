@@ -1,6 +1,8 @@
-.title {
+h1 {
     background-color: aqua;
-    width: auto;
-    height: 150px;
     color: red;
+}
+
+.scampi {
+    color: rgb(48, 172, 181);
 }
